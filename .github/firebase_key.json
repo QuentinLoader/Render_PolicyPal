@@ -1,1 +1,0 @@
-cred = credentials.Certificate("firebase_key.json")
