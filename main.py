@@ -12,7 +12,7 @@ import tempfile
 app = FastAPI()
 
 # Initialize Firebase
-cred = credentials.Certificate("64057e351b1c1f5ba74b2bbe35636268")
+cred = credentials.Certificate("64057e351b1c1f5ba74b2bbe35636268.json")
 firebase_admin.initialize_app(cred)
 db = firestore.client()
 
