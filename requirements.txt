@@ -1,1 +1,8 @@
-
+fastapi
+uvicorn
+gunicorn
+openai
+firebase-admin
+docxtpl
+pdfkit
+stripe
