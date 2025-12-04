@@ -1,9 +1,9 @@
 
-echo fastapi
-uvicorn
-gunicorn
-openai
-firebase-admin
-docxtpl
-pdfkit
-stripe > requirements.txt
+echo fastapi >> requirements.txt
+echo uvicorn >> requirements.txt
+echo gunicorn >> requirements.txt
+echo openai >> requirements.txt
+echo firebase-admin >> requirements.txt
+echo docxtpl >> requirements.txt
+echo pdfkit >> requirements.txt
+echo stripe  >> requirements.txt
